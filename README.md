@@ -1,1 +1,1 @@
-Juego hecho en Python
+Snake Game hecho en Python
